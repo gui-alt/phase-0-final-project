@@ -1,0 +1,39 @@
+header {
+    inline-size: auto;
+    font-style: italic;
+    padding: 10px;
+    background:black;
+    color: whitesmoke;
+    text-align: center;
+}
+section {
+    padding: 0;
+}
+#Home1 {
+    float: left;
+    background:whitesmoke;
+    width: 25%;
+    text-align: center;
+}
+#OurWork1 {
+    float: left;
+    background: whitesmoke;
+    width: 25%;
+    text-align: center;
+}
+#BookaClass1 {
+    float: left;
+    background: whitesmoke;
+    width: 25%;
+    text-align: center;
+}
+#Products1 {
+    float: left;
+    background: whitesmoke;
+    width: 25%;
+    text-align: center;
+}
+p {
+    font-size: x-large;
+    font-style: oblique;
+}
