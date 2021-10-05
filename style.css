@@ -36,4 +36,34 @@ section {
 p {
     font-size: x-large;
     font-style: oblique;
+    inline-size: auto;
+    padding: 10px;
 }
+#pic1 {
+    padding: 10px;
+    width: 40%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-shadow: 5px 5px 10px #000000;
+}
+#bronte {
+    font-size: x-large;
+    color:whitesmoke;
+    text-shadow: 5px 5px 10px whitesmoke;
+    inline-size: auto;
+    background:black;
+    font-style: italic;
+    padding: 10px;
+}
+footer {
+    font-size: x-large;
+    font-style: oblique;
+    text-shadow: 5px 5px 10px purple;
+    inline-size: auto;
+    background:black;
+    color: purple;
+    text-align: center;
+}
+
